@@ -13,3 +13,8 @@ Abstergo is a website created as a final project back in high school. It showcas
 - CSS3
 - JavaScript
 - PHP
+
+## Ownership Notice
+
+All assets and the concept of "Abstergo" are owned by Ubisoft. This project is a personal creation and does not represent any official affiliation with Ubisoft or its intellectual properties.
+
